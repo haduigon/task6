@@ -1,0 +1,38 @@
+P {
+         color: grey;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         flex-direction: column;
+         width: 100%;
+         text-align: center;
+         align-items: center;
+
+  }
+   P
+     {   border: 1px solid grey;
+         width: 230px;
+         height: 250px;
+         padding: 8px;
+         margin: auto;
+         margin-top: 10%;
+         box-shadow: 0 0 10px rgba(0,0,0,0.5);
+   }
+
+
+        A {
+                color: grey;
+        }
+        A:hover {
+
+                color: black;
+        }
+A {
+        margin-top: 30px;
+
+
+ p2
+ {
+
+         align:center;
+ }
